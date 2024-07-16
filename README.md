@@ -61,6 +61,26 @@ The project should now be running locally on your XAMPP server.
 ## 7. Usage
 Explore KHABAR JUNCTION to view news articles from different categories, powered by NewsAPI.org and Finnhub.io.
 
+## Features
+KHABAR JUNCTION is a news aggregation project that provides the following features:
+
+- **India News**:
+  - Displays latest news updates from India.
+
+- **International News**:
+  - Allows selection of specific countries for news updates.
+  - Fetches news from various international sources via API.
+  - Clicking on a news article redirects users to the original website for full reading.
+
+- **Bitcoin News**:
+  - Fetches and displays news related to Bitcoin and cryptocurrencies.
+
+- **Apple News**:
+  - Fetches and displays news related to Apple Inc.
+
+- **Stocks News**:
+  - Provides updates on stock market news.
+
 ## Troubleshooting
 If you encounter issues with API keys, ensure they are correctly configured in your Constant.php File
 * File location: Applicatoon/Config/Constants.php
