@@ -1,4 +1,4 @@
-# khabar_junction
+# KABAR JUNCTION
 KHABAR JUNCTION is a news aggregation project that utilizes newsapi.org and finnhub.io APIs to fetch and display news articles.
 
 ## Prerequisites
