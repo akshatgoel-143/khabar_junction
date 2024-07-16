@@ -18,7 +18,7 @@ Clone the KHABAR JUNCTION repository from GitHub to your local machine:
 ```sh
 git clone https://github.com/your-username/khabar_junction.git
 cd khabar_junction
-
+```
 
 ## 2. Configure API Keys
 ### NewsAPI.org API Key
@@ -40,8 +40,10 @@ Ensure Apache and MySQL services are running.
 File location: Applicatoon/Config/Constant.php
 
 Syntax:
+```php
 define('API_KEY','Your_API_Key_from_NEWSAPI.ORG');
 define('TOKEN','Your_API_Key_from_FINNHUB.IO');
+```
 
 If your project requires specific Apache configurations (e.g., virtual hosts), configure them in your XAMPP installation.
 
