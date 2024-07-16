@@ -24,9 +24,11 @@ cd khabar_junction
 ### NewsAPI.org API Key
 * Obtain your API key from NewsAPI.org.
 * Copy your API key.
+* Website: https://newsapi.org/
 ### Finnhub.io API Token
-Obtain your API token from Finnhub.io if required for financial market data.
-Copy your API token.
+* Obtain your API token from Finnhub.io if required for financial market data.
+* Copy your API token.
+* Website: https://finnhub.io/
 
 ## 3. Start XAMPP Server
 Start your XAMPP control panel.
