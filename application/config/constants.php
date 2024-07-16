@@ -84,5 +84,6 @@ defined('EXIT_DATABASE')       OR define('EXIT_DATABASE', 8); // database error
 defined('EXIT__AUTO_MIN')      OR define('EXIT__AUTO_MIN', 9); // lowest automatically-assigned error code
 defined('EXIT__AUTO_MAX')      OR define('EXIT__AUTO_MAX', 125); // highest automatically-assigned error code
 
-// define('API_KEY','a2262e8e19ab4cf6947080ce128534d6');
-// define('TOKEN','cq5noi1r01qhs6itt0lgcq5noi1r01qhs6itt0m0');
+//YOUR API KEYS HERE (Paste your Keys below)
+// define('API_KEY','');
+// define('TOKEN','');
