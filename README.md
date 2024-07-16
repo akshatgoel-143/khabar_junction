@@ -15,9 +15,10 @@ Follow these steps to set up and run KHABAR JUNCTION on your local system:
 ## 1. Clone the Repository
 Clone the KHABAR JUNCTION repository from GitHub to your local machine:
 
-'''sh
+```sh
 git clone https://github.com/your-username/khabar_junction.git
 cd khabar_junction
+
 
 ## 2. Configure API Keys
 ### NewsAPI.org API Key
@@ -32,17 +33,15 @@ Start your XAMPP control panel.
 Ensure Apache and MySQL services are running.
 
 ## 4. Setup API Keys
-The API key from the "NewsAPI.org" is named as 'API_KEY'
-The API key from the "Finnhub.io" is named as 'TOKEN'
-visit both the websites and your own API Key from there br creating your account to their websites.
-Now copy your API keys and paste them below as constants into the file "Constants.php
+* The API key from the "NewsAPI.org" is named as 'API_KEY'
+* The API key from the "Finnhub.io" is named as 'TOKEN'
+* visit both the websites and your own API Key from there br creating your account to their websites.
+* Now copy your API keys and paste them below as constants into the file "Constants.php
 File location: Applicatoon/Config/Constant.php
 
 Syntax:
-<?php
 define('API_KEY','Your_API_Key_from_NEWSAPI.ORG');
 define('TOKEN','Your_API_Key_from_FINNHUB.IO');
-?>
 
 If your project requires specific Apache configurations (e.g., virtual hosts), configure them in your XAMPP installation.
 
