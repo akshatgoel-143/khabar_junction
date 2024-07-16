@@ -84,7 +84,7 @@ KHABAR JUNCTION is a news aggregation project that provides the following featur
 ## Troubleshooting
 If you encounter issues with API keys, ensure they are correctly configured in your Constant.php File
 * File location: Applicatoon/Config/Constants.php
-* 
+
 Check PHP version compatibility and required extensions.
 Contributions
 Contributions are welcome! If you have any suggestions or improvements, please fork the repository and submit a pull request.
